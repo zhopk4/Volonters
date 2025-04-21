@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Новый формат</string>
+    <string name="surenameText">Фамилия</string>
+    <string name="regisyrText">Регистрация</string>
+    <string name="nameText">Имя</string>
+    <string name="patromicText">Отчество</string>
+    <string name="datebirthText">Дата Рождения(год-месяц-день)</string>
+    <string name="birthdayProfileText">Дата Рождения</string>
+    <string name="groupName">Группа</string>
+    <string name="emailText">E-mail</string>
+    <string name="loginText">Логин</string>
+    <string name="passwordText">Пароль</string>
+    <string name="zaregestrText">Зарегистрироваться</string>
+    <string name="newFormatText">«Новый Формат»</string>
+    <string name="dobroPozhalText">Добро пожаловать!</string>
+    <string name="enterText">Войти</string>
+    <string name="podderzhkaText">Поддержка</string>
+    <string name="backText">Назад</string>
+    <string name="ChangeImageText">Изменить \n фото</string>
+    <string name="inputaccaunt">Выйти из аккаунта</string>
+    <string name="listText">Задачи волонтёров</string>
+    <string name="addTaskToTheList">Добавить</string>
+    <string name="delete">Удалить</string>
+    <string name="enterTheTask">Введите задачу</string>
+    <string name="enterTheTaskDescription">Введите описание задачи</string>
+
+</resources>
